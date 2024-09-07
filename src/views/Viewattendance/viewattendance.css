@@ -1,0 +1,129 @@
+.viewdepname{
+    text-align: center;
+    width: 80%;
+    color: white;
+    background-color: #00acc1;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border: none;
+}
+
+.a11{
+    text-align: center;
+    background-color: #00acc1;
+    box-shadow: 0 12px 20px -10px rgba(0, 172, 193,.28), 0 4px 20px 0 rgba(0, 0, 0,.12), 0 7px 8px -5px rgba(0, 172, 193,.2);
+    border-top: 3px solid rgb(255,215,0);
+    border-bottom: 3px solid rgb(255,215,0);
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.h2{
+    font-size: 1.5rem;
+}
+.mainbody{
+    display: block;
+    width: 100%;
+}
+.lmain{
+border-top: 3px solid rgb(255,215,0);
+border-bottom: 3px solid rgb(255,215,0);
+overflow: hidden;
+border-radius: 0px 50px 50px 0px;
+background-color: rgb(255, 255, 255);
+display: block;
+width: 100%;
+margin-bottom: 10px;
+}
+.ltext{
+display: inline-block;
+width: 45%;
+min-height: 100%;
+justify-content: center;
+align-items: center;
+padding-top: 10px;
+}
+.rtext{
+position: relative;
+top: 0;
+justify-content: center;
+align-items: center;
+display: inline-block;
+background-color: rgb(255, 255, 255);
+width: 55%;
+height: 60%;
+}
+.ee1{
+    height: 100%;
+    background: rgb(255,192,0);
+    background: linear-gradient(90deg, rgba(255,192,0,1) 0%, rgba(255,255,255,1) 50%, rgba(255,192,0,1) 100%);
+}
+.ee2{
+    height: 100%;
+    background: rgb(0,138,255);
+    background: linear-gradient(90deg, rgba(0,138,255,0.8) 0%, rgba(255,255,255,0.8) 50%, rgba(0,138,255,0.8) 100%);
+}
+.ee3{
+    height: 100%;
+    background: rgb(111,0,255);
+    background: linear-gradient(90deg, rgba(111,0,255,1) 0%, rgba(255,255,255,1) 50%, rgba(111,0,255,1) 100%);
+}
+.bd2{
+
+    text-align: center;
+    width: 100%;
+    font-size: 1.4rem;
+    color: black;
+    font-weight: bold;
+}
+.bd3{
+    font-size: 1.5rem;
+    color: black;
+    font-weight: 300;
+    text-align: center;
+}
+.bd4{
+    color: rgba(0,138,255,1);
+}
+.bd5{
+    font-size: 2rem;
+    color: rgba(0,138,255,1);
+}
+.bd6{
+    color: rgb(111,0,255);
+}
+.chartsbody{
+    display: block;
+    width: 100%;
+    margin-bottom: 50px;
+
+}
+.cardst{
+    padding-top: 10px;
+    height: auto;
+    display: block;
+    width: 100%;
+    overflow: hidden;
+}
+.hh3{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.hh4{
+    color: #00a40e;
+}
+.hh5{
+    color: red;
+}
+.hh6{
+    color: #00acc1;
+}
+.hh7{
+    color: rgb(255, 89, 0);
+}
+.warnings{
+    display: block;
+    width: 100%;
+}

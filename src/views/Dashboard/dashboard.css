@@ -1,0 +1,203 @@
+/* .dash_Main{
+    background-color: rgba(0, 172, 193,0.7);
+  }
+   */
+
+  
+
+  
+  .Main_Line1 {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    display: flex;
+    height: 30vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .block_text {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    display: flex;
+    height: 30vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .chart {
+    margin: 0 1%;
+    display: inline-block;
+    height: 100%;
+    width: 25%;
+    padding: 1rem;
+    border: 1px solid #26dbf3;
+    border-radius: 10px;
+    background: rgba(222, 225, 228, 0.5);
+  }
+  .capsule{
+    border: 1px solid #26dbf3;
+    border-radius: 10px;
+    width: 70%;
+    height: 80%;
+    display: block;
+    text-align: center;
+    justify-content: center; 
+  }
+  .capsule2{
+    border-radius: 10px;
+    width: 99%;
+    height: 80%;
+    display: block;
+    text-align: center;
+    justify-content: center; 
+  }
+  .capsule2 .BT{
+    border: 1px solid #26dbf3;
+    margin: 0 1%;
+    display: inline-block;
+    width: 14%;
+    height: 80%;
+    text-align: center;
+    justify-content: center; 
+    background: rgba(222, 225, 228, 0.5);
+    border-radius: 12px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 2%;
+  }
+  .Main_Line1 .BT {
+    margin: 0 1%;
+    display: inline-block;
+    width: 22%;
+    height: 80%;
+    text-align: center;
+    justify-content: center; 
+    background: rgba(222, 225, 228, 0.5);
+    border-radius: 12px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 2%;
+  }
+  
+  .Main_Line2 {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    display: flex;
+    height: 40vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .Linechart {
+    width: 45%;
+    border-radius: 10px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    background: rgba(222, 225, 228, 0.5);
+    border: 1px solid #26dbf3;
+  }
+  .Barchart {
+
+    width: 45%;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background: rgba(222, 225, 228, 0.5);
+    border: 1px solid #26dbf3;
+  }
+.present{
+  color: #00a40e;
+}
+.absent{
+  color: red;
+}
+.leave{
+  color: #00acc1;
+}
+.late{
+  color: orange;
+}
+  .BT span {
+    font-size: 3rem;
+  }
+  .BTST{
+    margin: 5% 1%;
+    padding: 1%;
+  }
+  .block_text .ST{
+    height: 15rem;
+    width: 12rem;
+    border: 0.2rem solid #26dbf3;
+    background: rgba(222, 225, 228, 0.5);
+    border-radius: 12px;
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 2rem;
+    font-weight: bolder;
+  }
+  .ST span {
+    font-size: 5rem;
+  }
+  
+  @media screen and (max-width: 700px) {
+
+    .Main_Line1{
+      height: 60vh;
+      width: 90vw;
+      margin: 0;
+      display: block;
+      text-align: center;
+      padding: 0;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    .capsule,.chart{
+      display: inline-block;
+      width: 80%;
+      margin-bottom: 10px;
+      height: auto;
+    }
+    .BTST{
+      font-size: 1rem;
+      height: 10vh;
+    }
+    .Main_Line2{
+      height: 60vh;
+      width: 90vw;
+      margin: 0;
+      display: block;
+      text-align: center;
+      padding: 0;
+    }
+    .bbtt{
+      width: 90%;
+    }
+    .Barchart,.Linechart{
+      height: 600px;
+      width: 95%;
+      margin-bottom: 10;
+      display: block;
+      text-align: center;
+      padding: 0;
+    }
+  .block_text{
+    width: 90%;
+    height: auto;
+    text-align: center;
+  }
+.capsule2 .BT{
+  display: inline-block;
+  width: 40%;
+  margin: 10px;
+}
+
+  }
+  
